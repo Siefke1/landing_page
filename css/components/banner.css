@@ -1,0 +1,32 @@
+.banner {
+  display: flex;
+  height: 500px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+}
+
+.container-banner h1 {
+  font-size: 350%;
+  margin-bottom: 0px;
+  opacity: 1;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.container-banner p {
+  margin-bottom: 0px;
+  margin-top: 10px;
+  color: white;
+  opacity: 0.75;
+  position: relative;
+}
+
+.divider {
+  height: 5px;
+  width: 100%;
+  background-color: #ffffff;
+}
